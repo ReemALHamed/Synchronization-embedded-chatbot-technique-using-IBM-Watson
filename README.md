@@ -54,6 +54,9 @@ To add your chatbot to your website click on (Integrate webchat) and enter the n
 
 ![image](https://user-images.githubusercontent.com/85634099/125789267-3e42869f-1abc-4a11-8b2c-441b1c3b1144.png)
 
+![image](https://user-images.githubusercontent.com/85634099/125793847-889e7d6e-49c6-4de2-b96c-c420e4a29465.png)
+
+
 ## 9. Final Results !!
 I used one-page Bootstrap and added my chatbot to it to test if it works and it did! YAY !!
 I chose a restaurant Bootstrap and built my chatbot according to the needs of my website so the chatbot can :
