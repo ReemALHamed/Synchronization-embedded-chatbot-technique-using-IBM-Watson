@@ -78,7 +78,3 @@ I downloaded the bootstrap from (https://uicookies.com/downloads/resto-free-rest
 
 ## Bootstrap Overview:
 https://user-images.githubusercontent.com/85634099/125792830-13d137c9-8dc8-4938-a67e-94f5e7bc6d8b.mp4
-
-## Integrated Chatbot Overview
-https://user-images.githubusercontent.com/85634099/125792813-d6430831-8c06-481a-858a-020b67e44cb3.mp4
-
