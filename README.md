@@ -1,4 +1,4 @@
-# Synchronization-embedded-chatbot-technique-using-IBM-Watson
+# The RESTO (IBM Watson Embadded Chatbot)
 
 In this task, I'm using IBM Watson Assistant to create a chatbot to be integrated later into a website. To start you need to create an account in (https://www.ibm.com/sa-en/cloud/watson-assistant).
 
